@@ -1,0 +1,23 @@
+<resources>
+    <dimen name="base_padding">8dp</dimen>
+    <dimen name="calculator_padding">8dp</dimen>
+    <dimen name="display_padding_top">2dp</dimen>
+    <dimen name="display_padding_left">2dp</dimen>
+    <dimen name="display_padding_bottom">3dp</dimen>
+    <dimen name="display_padding_right">4dp</dimen>
+    <dimen name="keypad_padding">0dp</dimen>
+    <dimen name="keypad_margin_top">8dp</dimen>
+    <dimen name="keypad_margin_left">0dp</dimen>
+    <dimen name="keypad_margin_bottom">4dp</dimen>
+    <dimen name="keypad_margin_right">0dp</dimen>
+    <dimen name="button_padding_top">2dp</dimen>
+    <dimen name="button_padding_left">2dp</dimen>
+    <dimen name="button_padding_bottom">4dp</dimen>
+    <dimen name="button_padding_right">2dp</dimen>
+    <dimen name="button_margin_top">2dp</dimen>
+    <dimen name="button_margin_left">2dp</dimen>
+    <dimen name="button_margin_left_col_0">0dp</dimen>
+    <dimen name="button_margin_bottom">2dp</dimen>
+    <dimen name="button_margin_right">2dp</dimen>
+    <dimen name="button_margin_right_col_3">0dp</dimen>
+</resources>
